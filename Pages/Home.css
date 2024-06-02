@@ -1,0 +1,15 @@
+
+.Browser{
+    font-weight: bold;
+    font-size: 40px;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.footer p{
+    font-size: 10px;
+}
+.footer-2L p{
+    float: right;
+}
